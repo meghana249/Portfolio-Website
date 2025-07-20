@@ -13,16 +13,6 @@ This portfolio highlights key projects, resume details, and contact information 
 - Project showcase with brief descriptions
 - Contact form (optional) and social links integration
 
-## 📁 Project Structure
-
-Portfolio-Website/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-├── projects/
-
-
 
 ## 🛠️ Technologies Used
 
@@ -30,4 +20,6 @@ Portfolio-Website/
 - CSS3
 - JavaScript 
 - Git & GitHub for version control
+
+  
 
